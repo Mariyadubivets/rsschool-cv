@@ -1,8 +1,8 @@
-<img src="https://github.com/Mariyadubivets/rsschool-cv/blob/gh-pages/cv_img.png" width="200">
+<img src="https://github.com/Mariyadubivets/rsschool-cv/blob/gh-pages/cv_img.png" alt="cv_img" width="200">
 
 # MARIYA DUBOVETS
 
-Junior developer
+Junior Frontend developer
 
 ## Contacts
 1. E-mail: mariyadubovets@gmail.com
