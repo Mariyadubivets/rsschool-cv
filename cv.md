@@ -3,7 +3,6 @@
 # MARIYA DUBOVETS
 ***
 Junior developer
-***
 
 ## Contacts
 1. E-mail: mariyadubovets@gmail.com
