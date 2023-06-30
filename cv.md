@@ -1,7 +1,7 @@
 <img src="https://github.com/Mariyadubivets/rsschool-cv/blob/gh-pages/cv_img.png" width="200">
 
 # MARIYA DUBOVETS
-***
+
 Junior developer
 
 ## Contacts
