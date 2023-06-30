@@ -20,9 +20,7 @@ Junior developer
 - Figma.
 
 ## About me
-My name is Dubovets Mariya and I am the beginner developer. Right now I am learning Front-End at SkillBox courses. I have studied HTML, CSS and
-working on the project - tourist's company web-site with a lot of hotel's offers. 
-I desided to try this position because i like learn and create something new and Front-End is perfect direction for this.
+My name is Dubovets Mariya and I am the beginner developer. Right now I am learning Front-End at SkillBox courses. I have been studying HTML, CSS and working on the project - tourist's company web-site with a lot of hotel's offers. I desided to try out for this position because i like learning  and creating something new and Front-End is perfect for this.
 
 ## Code examples (HTML/CSS)
 ```
@@ -429,5 +427,4 @@ Belarusian State University, Faculty of law. Bachelor, 2018г.
 ## English skills
 
 English (B2 in progress), write (B1 in progress).
-I have speaking experiences during my travels (Austia, Italy, Spain, Czech Republic, Turkey, Poland, Sweden) also I have foreing friends from Italy with whom we are talking 
-about everything not only in chating, but also using speaking.
+I use English mainly for traveling (Austia, Italy, Spain, Czech Republic, Turkey, Poland, Sweden) and as the language for communication with foreign friends from Italy.
