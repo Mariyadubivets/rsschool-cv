@@ -1,4 +1,5 @@
-![CV IMAGE] (https://drive.google.com/file/d/1KuRJRXUSk1ujfdjyd3fPHXIQq5ZBvvfI/view?usp=sharing 'CV IMG')        
+<img src="https://github.com/Mariyadubivets/rsschool-cv/blob/gh-pages/cv_img.png" width="200">
+
 # MARIYA DUBOVETS
 ***
 Junior developer
@@ -7,6 +8,7 @@ Junior developer
 1. E-mail: mariyadubovets@gmail.com
 2. Instagram, Telegram: @marydubovets
 3. Tel.: +375291863767
+4. Mary Dubovets (@Mariyadubivets)
 
 ## Skills
 
